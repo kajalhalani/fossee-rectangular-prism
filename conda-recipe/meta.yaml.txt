@@ -54,7 +54,7 @@ test:
     - python -m unittest discover -s tests/
 
 about:
-  home: "https://github.com/anuranjani23/fossee-3D-rectangular-prism-viewer"
+  home: "https://github.com/kajalhalani/fossee-rectangular-prism"
   license: MIT
   license_family: MIT
   summary: "A PyQt5 and PythonOCC-based 3D rectangular prism viewer application"
@@ -63,8 +63,8 @@ about:
     Built using PyQt5, SQLite, and pythonocc-core (OpenCASCADE). Includes GUI, 3D rendering,
     unit testing, and database handling.
 
-  doc_url: https://github.com/anuranjani23/fossee-3D-rectangular-prism-viewer#readme
-  dev_url: https://github.com/anuranjani23/fossee-3D-rectangular-prism-viewer
+  doc_url: https://github.com/kajalhalani/fossee-rectangular-prism#readme
+  dev_url: https://github.com/kajalhalani/fossee-rectangular-prism
 
 extra:
   recipe-maintainers:
