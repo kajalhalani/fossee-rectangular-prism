@@ -7,7 +7,7 @@ setup(
     description="A PyQt5 and PythonOCC-based 3D rectangular prism viewer application",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/anuranjani23/fossee-3D-rectangular-prism-viewer",
+    url="https://github.com/kajalhalani/fossee-rectangular-prism",
     license="MIT",
     packages=find_packages(where="."),
     package_dir={"prism_viewer": "prism_viewer"},
