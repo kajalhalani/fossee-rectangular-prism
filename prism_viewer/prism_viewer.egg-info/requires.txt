@@ -1,0 +1,4 @@
+numpy==2.2.6
+pyqt5==5.15.11
+six==1.17.0
+svgwrite
